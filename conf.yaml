@@ -21,8 +21,8 @@ spider_settings:
 #   subject:            邮件主题
 #   body_template:      邮件正文的 HTML 模板文件
 email_push:
-  enable: false
-  to_email: recipient@example.com
+  enable: true
+  to_email: 314291770@qq.com
   subject: "今天的 RSS 订阅更新"
   body_template: "rss_template.html"
 
